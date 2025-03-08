@@ -1,0 +1,3 @@
+print "Hello, Atomic!"
+add 42 8
+multiply 6 7
