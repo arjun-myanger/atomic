@@ -1,3 +1,8 @@
-print "Hello, Atomic!"
-add 42 8
-multiply 6 7
+print "Welcome to Atomic!"
+let x = 10
+let y = 20
+add x y
+subtract y x
+multiply x 2
+divide y x
+mod y 3
